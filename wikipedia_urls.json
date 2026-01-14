@@ -1,0 +1,1002 @@
+[
+  {
+    "title": "Machine learning",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning"
+  },
+  {
+    "title": "Outline of machine learning",
+    "url": "https://en.wikipedia.org/wiki/Outline_of_machine_learning"
+  },
+  {
+    "title": "80 Million Tiny Images",
+    "url": "https://en.wikipedia.org/wiki/80_Million_Tiny_Images"
+  },
+  {
+    "title": "A Logical Calculus of the Ideas Immanent in Nervous Activity",
+    "url": "https://en.wikipedia.org/wiki/A_Logical_Calculus_of_the_Ideas_Immanent_in_Nervous_Activity"
+  },
+  {
+    "title": "Accelerated Linear Algebra",
+    "url": "https://en.wikipedia.org/wiki/Accelerated_Linear_Algebra"
+  },
+  {
+    "title": "Action model learning",
+    "url": "https://en.wikipedia.org/wiki/Action_model_learning"
+  },
+  {
+    "title": "Active learning (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Active_learning_(machine_learning)"
+  },
+  {
+    "title": "Adversarial machine learning",
+    "url": "https://en.wikipedia.org/wiki/Adversarial_machine_learning"
+  },
+  {
+    "title": "AI datacenter",
+    "url": "https://en.wikipedia.org/wiki/AI_datacenter"
+  },
+  {
+    "title": "AIOps",
+    "url": "https://en.wikipedia.org/wiki/AIOps"
+  },
+  {
+    "title": "AIXI",
+    "url": "https://en.wikipedia.org/wiki/AIXI"
+  },
+  {
+    "title": "Algorithm selection",
+    "url": "https://en.wikipedia.org/wiki/Algorithm_selection"
+  },
+  {
+    "title": "Algorithmic bias",
+    "url": "https://en.wikipedia.org/wiki/Algorithmic_bias"
+  },
+  {
+    "title": "Algorithmic inference",
+    "url": "https://en.wikipedia.org/wiki/Algorithmic_inference"
+  },
+  {
+    "title": "Anomaly detection",
+    "url": "https://en.wikipedia.org/wiki/Anomaly_detection"
+  },
+  {
+    "title": "Aporia (company)",
+    "url": "https://en.wikipedia.org/wiki/Aporia_(company)"
+  },
+  {
+    "title": "Apprenticeship learning",
+    "url": "https://en.wikipedia.org/wiki/Apprenticeship_learning"
+  },
+  {
+    "title": "Artificial intelligence in hiring",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_hiring"
+  },
+  {
+    "title": "Astrostatistics",
+    "url": "https://en.wikipedia.org/wiki/Astrostatistics"
+  },
+  {
+    "title": "Attention (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Attention_(machine_learning)"
+  },
+  {
+    "title": "Audio inpainting",
+    "url": "https://en.wikipedia.org/wiki/Audio_inpainting"
+  },
+  {
+    "title": "Automated decision-making",
+    "url": "https://en.wikipedia.org/wiki/Automated_decision-making"
+  },
+  {
+    "title": "Automated machine learning",
+    "url": "https://en.wikipedia.org/wiki/Automated_machine_learning"
+  },
+  {
+    "title": "Automation in construction",
+    "url": "https://en.wikipedia.org/wiki/Automation_in_construction"
+  },
+  {
+    "title": "Bag-of-words model",
+    "url": "https://en.wikipedia.org/wiki/Bag-of-words_model"
+  },
+  {
+    "title": "Ball tree",
+    "url": "https://en.wikipedia.org/wiki/Ball_tree"
+  },
+  {
+    "title": "Base rate",
+    "url": "https://en.wikipedia.org/wiki/Base_rate"
+  },
+  {
+    "title": "Bayesian interpretation of kernel regularization",
+    "url": "https://en.wikipedia.org/wiki/Bayesian_interpretation_of_kernel_regularization"
+  },
+  {
+    "title": "Bayesian learning mechanisms",
+    "url": "https://en.wikipedia.org/wiki/Bayesian_learning_mechanisms"
+  },
+  {
+    "title": "Bayesian optimization",
+    "url": "https://en.wikipedia.org/wiki/Bayesian_optimization"
+  },
+  {
+    "title": "Bayesian regret",
+    "url": "https://en.wikipedia.org/wiki/Bayesian_regret"
+  },
+  {
+    "title": "Bayesian structural time series",
+    "url": "https://en.wikipedia.org/wiki/Bayesian_structural_time_series"
+  },
+  {
+    "title": "Bias–variance tradeoff",
+    "url": "https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff"
+  },
+  {
+    "title": "Binary classification",
+    "url": "https://en.wikipedia.org/wiki/Binary_classification"
+  },
+  {
+    "title": "Bioserenity",
+    "url": "https://en.wikipedia.org/wiki/Bioserenity"
+  },
+  {
+    "title": "Bradley–Terry model",
+    "url": "https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model"
+  },
+  {
+    "title": "Category utility",
+    "url": "https://en.wikipedia.org/wiki/Category_utility"
+  },
+  {
+    "title": "CIML community portal",
+    "url": "https://en.wikipedia.org/wiki/CIML_community_portal"
+  },
+  {
+    "title": "Claude (language model)",
+    "url": "https://en.wikipedia.org/wiki/Claude_(language_model)"
+  },
+  {
+    "title": "Cognitive robotics",
+    "url": "https://en.wikipedia.org/wiki/Cognitive_robotics"
+  },
+  {
+    "title": "Concept drift",
+    "url": "https://en.wikipedia.org/wiki/Concept_drift"
+  },
+  {
+    "title": "Conditional random field",
+    "url": "https://en.wikipedia.org/wiki/Conditional_random_field"
+  },
+  {
+    "title": "Confusion matrix",
+    "url": "https://en.wikipedia.org/wiki/Confusion_matrix"
+  },
+  {
+    "title": "Contrastive Language-Image Pre-training",
+    "url": "https://en.wikipedia.org/wiki/Contrastive_Language-Image_Pre-training"
+  },
+  {
+    "title": "Cost-sensitive machine learning",
+    "url": "https://en.wikipedia.org/wiki/Cost-sensitive_machine_learning"
+  },
+  {
+    "title": "Coupled pattern learner",
+    "url": "https://en.wikipedia.org/wiki/Coupled_pattern_learner"
+  },
+  {
+    "title": "Croissant (metadata format)",
+    "url": "https://en.wikipedia.org/wiki/Croissant_(metadata_format)"
+  },
+  {
+    "title": "Cross-entropy method",
+    "url": "https://en.wikipedia.org/wiki/Cross-entropy_method"
+  },
+  {
+    "title": "Cross-validation (statistics)",
+    "url": "https://en.wikipedia.org/wiki/Cross-validation_(statistics)"
+  },
+  {
+    "title": "Curse of dimensionality",
+    "url": "https://en.wikipedia.org/wiki/Curse_of_dimensionality"
+  },
+  {
+    "title": "Data augmentation",
+    "url": "https://en.wikipedia.org/wiki/Data_augmentation"
+  },
+  {
+    "title": "Data exploration",
+    "url": "https://en.wikipedia.org/wiki/Data_exploration"
+  },
+  {
+    "title": "Data preprocessing",
+    "url": "https://en.wikipedia.org/wiki/Data_preprocessing"
+  },
+  {
+    "title": "Data-driven astronomy",
+    "url": "https://en.wikipedia.org/wiki/Data-driven_astronomy"
+  },
+  {
+    "title": "Data-driven model",
+    "url": "https://en.wikipedia.org/wiki/Data-driven_model"
+  },
+  {
+    "title": "Decision list",
+    "url": "https://en.wikipedia.org/wiki/Decision_list"
+  },
+  {
+    "title": "Decision tree pruning",
+    "url": "https://en.wikipedia.org/wiki/Decision_tree_pruning"
+  },
+  {
+    "title": "Deep tomographic reconstruction",
+    "url": "https://en.wikipedia.org/wiki/Deep_tomographic_reconstruction"
+  },
+  {
+    "title": "Developmental robotics",
+    "url": "https://en.wikipedia.org/wiki/Developmental_robotics"
+  },
+  {
+    "title": "Discovery system (artificial intelligence)",
+    "url": "https://en.wikipedia.org/wiki/Discovery_system_(artificial_intelligence)"
+  },
+  {
+    "title": "Document classification",
+    "url": "https://en.wikipedia.org/wiki/Document_classification"
+  },
+  {
+    "title": "Domain adaptation",
+    "url": "https://en.wikipedia.org/wiki/Domain_adaptation"
+  },
+  {
+    "title": "Double descent",
+    "url": "https://en.wikipedia.org/wiki/Double_descent"
+  },
+  {
+    "title": "Eager learning",
+    "url": "https://en.wikipedia.org/wiki/Eager_learning"
+  },
+  {
+    "title": "EfficientNet",
+    "url": "https://en.wikipedia.org/wiki/EfficientNet"
+  },
+  {
+    "title": "ELMo",
+    "url": "https://en.wikipedia.org/wiki/ELMo"
+  },
+  {
+    "title": "EM algorithm and GMM model",
+    "url": "https://en.wikipedia.org/wiki/EM_algorithm_and_GMM_model"
+  },
+  {
+    "title": "Embedding (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Embedding_(machine_learning)"
+  },
+  {
+    "title": "Empirical dynamic modeling",
+    "url": "https://en.wikipedia.org/wiki/Empirical_dynamic_modeling"
+  },
+  {
+    "title": "Empirical risk minimization",
+    "url": "https://en.wikipedia.org/wiki/Empirical_risk_minimization"
+  },
+  {
+    "title": "Energy-based model",
+    "url": "https://en.wikipedia.org/wiki/Energy-based_model"
+  },
+  {
+    "title": "Equalized odds",
+    "url": "https://en.wikipedia.org/wiki/Equalized_odds"
+  },
+  {
+    "title": "Evaluation of binary classifiers",
+    "url": "https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers"
+  },
+  {
+    "title": "Evolvability (computer science)",
+    "url": "https://en.wikipedia.org/wiki/Evolvability_(computer_science)"
+  },
+  {
+    "title": "Expectation propagation",
+    "url": "https://en.wikipedia.org/wiki/Expectation_propagation"
+  },
+  {
+    "title": "Explanation-based learning",
+    "url": "https://en.wikipedia.org/wiki/Explanation-based_learning"
+  },
+  {
+    "title": "Exploration–exploitation dilemma",
+    "url": "https://en.wikipedia.org/wiki/Exploration%E2%80%93exploitation_dilemma"
+  },
+  {
+    "title": "Fairness (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Fairness_(machine_learning)"
+  },
+  {
+    "title": "Feature (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Feature_(machine_learning)"
+  },
+  {
+    "title": "Feature engineering",
+    "url": "https://en.wikipedia.org/wiki/Feature_engineering"
+  },
+  {
+    "title": "Feature hashing",
+    "url": "https://en.wikipedia.org/wiki/Feature_hashing"
+  },
+  {
+    "title": "Feature learning",
+    "url": "https://en.wikipedia.org/wiki/Feature_learning"
+  },
+  {
+    "title": "Feature scaling",
+    "url": "https://en.wikipedia.org/wiki/Feature_scaling"
+  },
+  {
+    "title": "Federated learning",
+    "url": "https://en.wikipedia.org/wiki/Federated_learning"
+  },
+  {
+    "title": "Fine-tuning (deep learning)",
+    "url": "https://en.wikipedia.org/wiki/Fine-tuning_(deep_learning)"
+  },
+  {
+    "title": "Flow-based generative model",
+    "url": "https://en.wikipedia.org/wiki/Flow-based_generative_model"
+  },
+  {
+    "title": "Flux (machine-learning framework)",
+    "url": "https://en.wikipedia.org/wiki/Flux_(machine-learning_framework)"
+  },
+  {
+    "title": "Force control",
+    "url": "https://en.wikipedia.org/wiki/Force_control"
+  },
+  {
+    "title": "Formal concept analysis",
+    "url": "https://en.wikipedia.org/wiki/Formal_concept_analysis"
+  },
+  {
+    "title": "Generalized additive model for location, scale and shape",
+    "url": "https://en.wikipedia.org/wiki/Generalized_additive_model_for_location,_scale_and_shape"
+  },
+  {
+    "title": "Generative artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Generative_artificial_intelligence"
+  },
+  {
+    "title": "Generative model",
+    "url": "https://en.wikipedia.org/wiki/Generative_model"
+  },
+  {
+    "title": "Geometric feature learning",
+    "url": "https://en.wikipedia.org/wiki/Geometric_feature_learning"
+  },
+  {
+    "title": "Glossary of artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Glossary_of_artificial_intelligence"
+  },
+  {
+    "title": "Google Colab",
+    "url": "https://en.wikipedia.org/wiki/Google_Colab"
+  },
+  {
+    "title": "Google Research",
+    "url": "https://en.wikipedia.org/wiki/Google_Research"
+  },
+  {
+    "title": "Granular computing",
+    "url": "https://en.wikipedia.org/wiki/Granular_computing"
+  },
+  {
+    "title": "Grokking (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Grokking_(machine_learning)"
+  },
+  {
+    "title": "H (company)",
+    "url": "https://en.wikipedia.org/wiki/H_(company)"
+  },
+  {
+    "title": "H2O (software)",
+    "url": "https://en.wikipedia.org/wiki/H2O_(software)"
+  },
+  {
+    "title": "Hallucination (artificial intelligence)",
+    "url": "https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)"
+  },
+  {
+    "title": "Hidden layer",
+    "url": "https://en.wikipedia.org/wiki/Hidden_layer"
+  },
+  {
+    "title": "Hierarchical navigable small world",
+    "url": "https://en.wikipedia.org/wiki/Hierarchical_navigable_small_world"
+  },
+  {
+    "title": "Hierarchical Risk Parity",
+    "url": "https://en.wikipedia.org/wiki/Hierarchical_Risk_Parity"
+  },
+  {
+    "title": "Highway network",
+    "url": "https://en.wikipedia.org/wiki/Highway_network"
+  },
+  {
+    "title": "Hugging Face",
+    "url": "https://en.wikipedia.org/wiki/Hugging_Face"
+  },
+  {
+    "title": "Human-in-the-loop",
+    "url": "https://en.wikipedia.org/wiki/Human-in-the-loop"
+  },
+  {
+    "title": "Hyperparameter (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)"
+  },
+  {
+    "title": "Hyperparameter optimization",
+    "url": "https://en.wikipedia.org/wiki/Hyperparameter_optimization"
+  },
+  {
+    "title": "In-context learning (natural language processing)",
+    "url": "https://en.wikipedia.org/wiki/In-context_learning_(natural_language_processing)"
+  },
+  {
+    "title": "Inauthentic text",
+    "url": "https://en.wikipedia.org/wiki/Inauthentic_text"
+  },
+  {
+    "title": "Inception score",
+    "url": "https://en.wikipedia.org/wiki/Inception_score"
+  },
+  {
+    "title": "Inductive bias",
+    "url": "https://en.wikipedia.org/wiki/Inductive_bias"
+  },
+  {
+    "title": "Inductive probability",
+    "url": "https://en.wikipedia.org/wiki/Inductive_probability"
+  },
+  {
+    "title": "Inductive programming",
+    "url": "https://en.wikipedia.org/wiki/Inductive_programming"
+  },
+  {
+    "title": "Inferential theory of learning",
+    "url": "https://en.wikipedia.org/wiki/Inferential_theory_of_learning"
+  },
+  {
+    "title": "Instance selection",
+    "url": "https://en.wikipedia.org/wiki/Instance_selection"
+  },
+  {
+    "title": "Instance-based learning",
+    "url": "https://en.wikipedia.org/wiki/Instance-based_learning"
+  },
+  {
+    "title": "Intelligent automation",
+    "url": "https://en.wikipedia.org/wiki/Intelligent_automation"
+  },
+  {
+    "title": "Isotropic position",
+    "url": "https://en.wikipedia.org/wiki/Isotropic_position"
+  },
+  {
+    "title": "JAX (software)",
+    "url": "https://en.wikipedia.org/wiki/JAX_(software)"
+  },
+  {
+    "title": "Journal of Machine Learning Research",
+    "url": "https://en.wikipedia.org/wiki/Journal_of_Machine_Learning_Research"
+  },
+  {
+    "title": "Kernel density estimation",
+    "url": "https://en.wikipedia.org/wiki/Kernel_density_estimation"
+  },
+  {
+    "title": "Kernel embedding of distributions",
+    "url": "https://en.wikipedia.org/wiki/Kernel_embedding_of_distributions"
+  },
+  {
+    "title": "Knowledge graph embedding",
+    "url": "https://en.wikipedia.org/wiki/Knowledge_graph_embedding"
+  },
+  {
+    "title": "Knowledge integration",
+    "url": "https://en.wikipedia.org/wiki/Knowledge_integration"
+  },
+  {
+    "title": "Kolmogorov-Arnold Networks",
+    "url": "https://en.wikipedia.org/wiki/Kolmogorov-Arnold_Networks"
+  },
+  {
+    "title": "Labeled data",
+    "url": "https://en.wikipedia.org/wiki/Labeled_data"
+  },
+  {
+    "title": "Lazy learning",
+    "url": "https://en.wikipedia.org/wiki/Lazy_learning"
+  },
+  {
+    "title": "Leakage (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Leakage_(machine_learning)"
+  },
+  {
+    "title": "Learnable function",
+    "url": "https://en.wikipedia.org/wiki/Learnable_function"
+  },
+  {
+    "title": "Learnable function class",
+    "url": "https://en.wikipedia.org/wiki/Learnable_function_class"
+  },
+  {
+    "title": "Learning automaton",
+    "url": "https://en.wikipedia.org/wiki/Learning_automaton"
+  },
+  {
+    "title": "Learning curve (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Learning_curve_(machine_learning)"
+  },
+  {
+    "title": "Learning rate",
+    "url": "https://en.wikipedia.org/wiki/Learning_rate"
+  },
+  {
+    "title": "Learning to rank",
+    "url": "https://en.wikipedia.org/wiki/Learning_to_rank"
+  },
+  {
+    "title": "Life-time of correlation",
+    "url": "https://en.wikipedia.org/wiki/Life-time_of_correlation"
+  },
+  {
+    "title": "Linear predictor function",
+    "url": "https://en.wikipedia.org/wiki/Linear_predictor_function"
+  },
+  {
+    "title": "Linear separability",
+    "url": "https://en.wikipedia.org/wiki/Linear_separability"
+  },
+  {
+    "title": "LLM-as-a-Judge",
+    "url": "https://en.wikipedia.org/wiki/LLM-as-a-Judge"
+  },
+  {
+    "title": "Local case-control sampling",
+    "url": "https://en.wikipedia.org/wiki/Local_case-control_sampling"
+  },
+  {
+    "title": "Lottery ticket hypothesis",
+    "url": "https://en.wikipedia.org/wiki/Lottery_ticket_hypothesis"
+  },
+  {
+    "title": "Lyra (codec)",
+    "url": "https://en.wikipedia.org/wiki/Lyra_(codec)"
+  },
+  {
+    "title": "M-theory (learning framework)",
+    "url": "https://en.wikipedia.org/wiki/M-theory_(learning_framework)"
+  },
+  {
+    "title": "Machine Learning (journal)",
+    "url": "https://en.wikipedia.org/wiki/Machine_Learning_(journal)"
+  },
+  {
+    "title": "Machine Learning and Knowledge Extraction",
+    "url": "https://en.wikipedia.org/wiki/Machine_Learning_and_Knowledge_Extraction"
+  },
+  {
+    "title": "Machine learning control",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_control"
+  },
+  {
+    "title": "Machine learning in bioinformatics",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics"
+  },
+  {
+    "title": "Machine learning in earth sciences",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences"
+  },
+  {
+    "title": "Machine learning in physics",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_in_physics"
+  },
+  {
+    "title": "Machine learning in video games",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_in_video_games"
+  },
+  {
+    "title": "Machine unlearning",
+    "url": "https://en.wikipedia.org/wiki/Machine_unlearning"
+  },
+  {
+    "title": "Machine-learned interatomic potential",
+    "url": "https://en.wikipedia.org/wiki/Machine-learned_interatomic_potential"
+  },
+  {
+    "title": "Manifold hypothesis",
+    "url": "https://en.wikipedia.org/wiki/Manifold_hypothesis"
+  },
+  {
+    "title": "Manifold regularization",
+    "url": "https://en.wikipedia.org/wiki/Manifold_regularization"
+  },
+  {
+    "title": "The Master Algorithm",
+    "url": "https://en.wikipedia.org/wiki/The_Master_Algorithm"
+  },
+  {
+    "title": "Matchbox Educable Noughts and Crosses Engine",
+    "url": "https://en.wikipedia.org/wiki/Matchbox_Educable_Noughts_and_Crosses_Engine"
+  },
+  {
+    "title": "Matrix regularization",
+    "url": "https://en.wikipedia.org/wiki/Matrix_regularization"
+  },
+  {
+    "title": "MAUVE (metric)",
+    "url": "https://en.wikipedia.org/wiki/MAUVE_(metric)"
+  },
+  {
+    "title": "Maximum inner-product search",
+    "url": "https://en.wikipedia.org/wiki/Maximum_inner-product_search"
+  },
+  {
+    "title": "Mechanistic interpretability",
+    "url": "https://en.wikipedia.org/wiki/Mechanistic_interpretability"
+  },
+  {
+    "title": "Meta-Labeling",
+    "url": "https://en.wikipedia.org/wiki/Meta-Labeling"
+  },
+  {
+    "title": "Meta-learning (computer science)",
+    "url": "https://en.wikipedia.org/wiki/Meta-learning_(computer_science)"
+  },
+  {
+    "title": "MLOps",
+    "url": "https://en.wikipedia.org/wiki/MLOps"
+  },
+  {
+    "title": "MobileNet",
+    "url": "https://en.wikipedia.org/wiki/MobileNet"
+  },
+  {
+    "title": "Mode collapse",
+    "url": "https://en.wikipedia.org/wiki/Mode_collapse"
+  },
+  {
+    "title": "Model compression",
+    "url": "https://en.wikipedia.org/wiki/Model_compression"
+  },
+  {
+    "title": "Mountain car problem",
+    "url": "https://en.wikipedia.org/wiki/Mountain_car_problem"
+  },
+  {
+    "title": "Multi-armed bandit",
+    "url": "https://en.wikipedia.org/wiki/Multi-armed_bandit"
+  },
+  {
+    "title": "Multi-task learning",
+    "url": "https://en.wikipedia.org/wiki/Multi-task_learning"
+  },
+  {
+    "title": "Multimodal representation learning",
+    "url": "https://en.wikipedia.org/wiki/Multimodal_representation_learning"
+  },
+  {
+    "title": "Multimodal sentiment analysis",
+    "url": "https://en.wikipedia.org/wiki/Multimodal_sentiment_analysis"
+  },
+  {
+    "title": "Multiple instance learning",
+    "url": "https://en.wikipedia.org/wiki/Multiple_instance_learning"
+  },
+  {
+    "title": "Multiple-instance learning",
+    "url": "https://en.wikipedia.org/wiki/Multiple-instance_learning"
+  },
+  {
+    "title": "Multiplicative weight update method",
+    "url": "https://en.wikipedia.org/wiki/Multiplicative_weight_update_method"
+  },
+  {
+    "title": "Multitask optimization",
+    "url": "https://en.wikipedia.org/wiki/Multitask_optimization"
+  },
+  {
+    "title": "Multivariate adaptive regression spline",
+    "url": "https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline"
+  },
+  {
+    "title": "Native-language identification",
+    "url": "https://en.wikipedia.org/wiki/Native-language_identification"
+  },
+  {
+    "title": "Nature Machine Intelligence",
+    "url": "https://en.wikipedia.org/wiki/Nature_Machine_Intelligence"
+  },
+  {
+    "title": "Neural modeling fields",
+    "url": "https://en.wikipedia.org/wiki/Neural_modeling_fields"
+  },
+  {
+    "title": "Neural network quantum states",
+    "url": "https://en.wikipedia.org/wiki/Neural_network_quantum_states"
+  },
+  {
+    "title": "Normalization (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Normalization_(machine_learning)"
+  },
+  {
+    "title": "Novelty detection",
+    "url": "https://en.wikipedia.org/wiki/Novelty_detection"
+  },
+  {
+    "title": "Offline learning",
+    "url": "https://en.wikipedia.org/wiki/Offline_learning"
+  },
+  {
+    "title": "Overfitting",
+    "url": "https://en.wikipedia.org/wiki/Overfitting"
+  },
+  {
+    "title": "Paraphrasing (computational linguistics)",
+    "url": "https://en.wikipedia.org/wiki/Paraphrasing_(computational_linguistics)"
+  },
+  {
+    "title": "Parity learning",
+    "url": "https://en.wikipedia.org/wiki/Parity_learning"
+  },
+  {
+    "title": "Pattern language (formal languages)",
+    "url": "https://en.wikipedia.org/wiki/Pattern_language_(formal_languages)"
+  },
+  {
+    "title": "Pattern recognition",
+    "url": "https://en.wikipedia.org/wiki/Pattern_recognition"
+  },
+  {
+    "title": "Perceiver",
+    "url": "https://en.wikipedia.org/wiki/Perceiver"
+  },
+  {
+    "title": "PHerc. Paris. 4",
+    "url": "https://en.wikipedia.org/wiki/PHerc._Paris._4"
+  },
+  {
+    "title": "Phi coefficient",
+    "url": "https://en.wikipedia.org/wiki/Phi_coefficient"
+  },
+  {
+    "title": "Predictive learning",
+    "url": "https://en.wikipedia.org/wiki/Predictive_learning"
+  },
+  {
+    "title": "Predictive state representation",
+    "url": "https://en.wikipedia.org/wiki/Predictive_state_representation"
+  },
+  {
+    "title": "Preference learning",
+    "url": "https://en.wikipedia.org/wiki/Preference_learning"
+  },
+  {
+    "title": "Prior knowledge for pattern recognition",
+    "url": "https://en.wikipedia.org/wiki/Prior_knowledge_for_pattern_recognition"
+  },
+  {
+    "title": "Proactive learning",
+    "url": "https://en.wikipedia.org/wiki/Proactive_learning"
+  },
+  {
+    "title": "Proaftn",
+    "url": "https://en.wikipedia.org/wiki/Proaftn"
+  },
+  {
+    "title": "Probabilistic numerics",
+    "url": "https://en.wikipedia.org/wiki/Probabilistic_numerics"
+  },
+  {
+    "title": "Probability matching",
+    "url": "https://en.wikipedia.org/wiki/Probability_matching"
+  },
+  {
+    "title": "Product of experts",
+    "url": "https://en.wikipedia.org/wiki/Product_of_experts"
+  },
+  {
+    "title": "Products and applications of OpenAI",
+    "url": "https://en.wikipedia.org/wiki/Products_and_applications_of_OpenAI"
+  },
+  {
+    "title": "Programming by example",
+    "url": "https://en.wikipedia.org/wiki/Programming_by_example"
+  },
+  {
+    "title": "Prompt engineering",
+    "url": "https://en.wikipedia.org/wiki/Prompt_engineering"
+  },
+  {
+    "title": "Proximal gradient methods for learning",
+    "url": "https://en.wikipedia.org/wiki/Proximal_gradient_methods_for_learning"
+  },
+  {
+    "title": "Purged cross-validation",
+    "url": "https://en.wikipedia.org/wiki/Purged_cross-validation"
+  },
+  {
+    "title": "Pythia (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Pythia_(machine_learning)"
+  },
+  {
+    "title": "Quantification (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Quantification_(machine_learning)"
+  },
+  {
+    "title": "Quantum machine learning",
+    "url": "https://en.wikipedia.org/wiki/Quantum_machine_learning"
+  },
+  {
+    "title": "Rabbit r1",
+    "url": "https://en.wikipedia.org/wiki/Rabbit_r1"
+  },
+  {
+    "title": "Rademacher complexity",
+    "url": "https://en.wikipedia.org/wiki/Rademacher_complexity"
+  },
+  {
+    "title": "Random feature",
+    "url": "https://en.wikipedia.org/wiki/Random_feature"
+  },
+  {
+    "title": "Reasoning model",
+    "url": "https://en.wikipedia.org/wiki/Reasoning_model"
+  },
+  {
+    "title": "Reciprocal human machine learning",
+    "url": "https://en.wikipedia.org/wiki/Reciprocal_human_machine_learning"
+  },
+  {
+    "title": "Relational data mining",
+    "url": "https://en.wikipedia.org/wiki/Relational_data_mining"
+  },
+  {
+    "title": "Reparameterization trick",
+    "url": "https://en.wikipedia.org/wiki/Reparameterization_trick"
+  },
+  {
+    "title": "Right to explanation",
+    "url": "https://en.wikipedia.org/wiki/Right_to_explanation"
+  },
+  {
+    "title": "Robot learning",
+    "url": "https://en.wikipedia.org/wiki/Robot_learning"
+  },
+  {
+    "title": "Robotic process automation",
+    "url": "https://en.wikipedia.org/wiki/Robotic_process_automation"
+  },
+  {
+    "title": "ROCm",
+    "url": "https://en.wikipedia.org/wiki/ROCm"
+  },
+  {
+    "title": "Rule induction",
+    "url": "https://en.wikipedia.org/wiki/Rule_induction"
+  },
+  {
+    "title": "Sample complexity",
+    "url": "https://en.wikipedia.org/wiki/Sample_complexity"
+  },
+  {
+    "title": "Self-supervised learning",
+    "url": "https://en.wikipedia.org/wiki/Self-supervised_learning"
+  },
+  {
+    "title": "Semantic analysis (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Semantic_analysis_(machine_learning)"
+  },
+  {
+    "title": "Semantic folding",
+    "url": "https://en.wikipedia.org/wiki/Semantic_folding"
+  },
+  {
+    "title": "Semi-supervised learning",
+    "url": "https://en.wikipedia.org/wiki/Semi-supervised_learning"
+  },
+  {
+    "title": "Sequence labeling",
+    "url": "https://en.wikipedia.org/wiki/Sequence_labeling"
+  },
+  {
+    "title": "Similarity learning",
+    "url": "https://en.wikipedia.org/wiki/Similarity_learning"
+  },
+  {
+    "title": "Socially assistive robot",
+    "url": "https://en.wikipedia.org/wiki/Socially_assistive_robot"
+  },
+  {
+    "title": "Lynda Soderholm",
+    "url": "https://en.wikipedia.org/wiki/Lynda_Soderholm"
+  },
+  {
+    "title": "Solomonoff's theory of inductive inference",
+    "url": "https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference"
+  },
+  {
+    "title": "Spatial embedding",
+    "url": "https://en.wikipedia.org/wiki/Spatial_embedding"
+  },
+  {
+    "title": "Spike-and-slab regression",
+    "url": "https://en.wikipedia.org/wiki/Spike-and-slab_regression"
+  },
+  {
+    "title": "Stability (learning theory)",
+    "url": "https://en.wikipedia.org/wiki/Stability_(learning_theory)"
+  },
+  {
+    "title": "Statistical learning theory",
+    "url": "https://en.wikipedia.org/wiki/Statistical_learning_theory"
+  },
+  {
+    "title": "Statistical relational learning",
+    "url": "https://en.wikipedia.org/wiki/Statistical_relational_learning"
+  },
+  {
+    "title": "Structural risk minimization",
+    "url": "https://en.wikipedia.org/wiki/Structural_risk_minimization"
+  },
+  {
+    "title": "Structured sparsity regularization",
+    "url": "https://en.wikipedia.org/wiki/Structured_sparsity_regularization"
+  },
+  {
+    "title": "Surrogate model",
+    "url": "https://en.wikipedia.org/wiki/Surrogate_model"
+  },
+  {
+    "title": "Symbolic regression",
+    "url": "https://en.wikipedia.org/wiki/Symbolic_regression"
+  },
+  {
+    "title": "Tensor (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Tensor_(machine_learning)"
+  },
+  {
+    "title": "TensorFlow Hub",
+    "url": "https://en.wikipedia.org/wiki/TensorFlow_Hub"
+  },
+  {
+    "title": "Three-factor learning",
+    "url": "https://en.wikipedia.org/wiki/Three-factor_learning"
+  },
+  {
+    "title": "Time series",
+    "url": "https://en.wikipedia.org/wiki/Time_series"
+  },
+  {
+    "title": "Timeline of machine learning",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_machine_learning"
+  },
+  {
+    "title": "Toronto Declaration",
+    "url": "https://en.wikipedia.org/wiki/Toronto_Declaration"
+  },
+  {
+    "title": "Transduction (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Transduction_(machine_learning)"
+  },
+  {
+    "title": "Transfer learning",
+    "url": "https://en.wikipedia.org/wiki/Transfer_learning"
+  },
+  {
+    "title": "Ugly duckling theorem",
+    "url": "https://en.wikipedia.org/wiki/Ugly_duckling_theorem"
+  },
+  {
+    "title": "Uncertain data",
+    "url": "https://en.wikipedia.org/wiki/Uncertain_data"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "experiment": "Scaling Impact",
+  "without_scaling": {
+    "best_k": 3,
+    "silhouette_scores": {
+      "2": 0.42,
+      "3": 0.38,
+      "4": 0.31,
+      "5": 0.28
+    },
+    "observation": "\u03a4\u03bf page_length_chars \u03ba\u03c5\u03c1\u03b9\u03b1\u03c1\u03c7\u03b5\u03af - clusters \u03b2\u03b1\u03c3\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03ba\u03c5\u03c1\u03af\u03c9\u03c2 \u03c3\u03c4\u03bf \u03bc\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2"
+  },
+  "with_scaling": {
+    "best_k": 4,
+    "silhouette_scores": {
+      "2": 0.51,
+      "3": 0.48,
+      "4": 0.46,
+      "5": 0.41
+    },
+    "observation": "\u03a0\u03b9\u03bf \u03b9\u03c3\u03bf\u03c1\u03c1\u03bf\u03c0\u03b7\u03bc\u03ad\u03bd\u03b7 \u03b5\u03c0\u03b9\u03c1\u03c1\u03bf\u03ae \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd features - clusters \u03c0\u03b9\u03bf \u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03cd\u03c3\u03b9\u03bc\u03b1"
+  }
+}

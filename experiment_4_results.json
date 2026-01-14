@@ -1,0 +1,25 @@
+{
+  "experiment": "MongoDB Upsert Strategy",
+  "simple_insert": {
+    "run_1": {
+      "count": 50,
+      "time": 0.04477524757385254
+    },
+    "run_2": {
+      "count": 50,
+      "time": 0.04554438591003418
+    },
+    "duplicates_created": 0
+  },
+  "upsert": {
+    "run_1": {
+      "count": 50,
+      "time": 0.0373380184173584
+    },
+    "run_2": {
+      "count": 50,
+      "time": 0.03229212760925293
+    },
+    "duplicates_created": 0
+  }
+}

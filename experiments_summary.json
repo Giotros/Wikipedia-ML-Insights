@@ -1,0 +1,126 @@
+{
+  "experiment_1": {
+    "experiment": "\u03a3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03b9\u03ba\u03ad\u03c2 \u0391\u03bd\u03b1\u03bc\u03bf\u03bd\u03ae\u03c2",
+    "strategy_a": {
+      "name": "\u0392\u03b1\u03c3\u03b9\u03ba\u03ae (strict_waits=False)",
+      "failure_rate": 0.0,
+      "empty_fields_rate": 0.0,
+      "avg_time_per_page": 1.3805429792404176,
+      "timeout_rate": 0.0
+    },
+    "strategy_b": {
+      "name": "\u0391\u03c5\u03c3\u03c4\u03b7\u03c1\u03ae (strict_waits=True)",
+      "failure_rate": 0.0,
+      "empty_fields_rate": 0.0,
+      "avg_time_per_page": 1.3316896200180053,
+      "timeout_rate": 0.0
+    }
+  },
+  "experiment_2": {
+    "experiment": "Headless vs Non-Headless",
+    "headless": {
+      "avg_time_per_page": 1.329650600751241,
+      "timeout_rate": 0.0,
+      "failure_rate": 0.0
+    },
+    "non_headless": {
+      "avg_time_per_page": 1.5379695018132529,
+      "timeout_rate": 0.0,
+      "failure_rate": 0.0
+    }
+  },
+  "experiment_3": {
+    "experiment": "\u03a1\u03c5\u03b8\u03bc\u03cc\u03c2 \u03a0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2",
+    "fast_policy": {
+      "delay_range": "0.1-0.3s",
+      "pages_per_minute": 73.71761474306363,
+      "failure_rate": 0.0,
+      "timeout_rate": 0.0,
+      "empty_fields_rate": 0.0,
+      "total_time": 32.55666923522949
+    },
+    "polite_policy": {
+      "delay_range": "1.0-2.0s",
+      "pages_per_minute": 29.73556785490676,
+      "failure_rate": 0.0,
+      "timeout_rate": 0.0,
+      "empty_fields_rate": 0.0,
+      "total_time": 80.71142315864563
+    }
+  },
+  "experiment_4": {
+    "experiment": "MongoDB Upsert Strategy",
+    "simple_insert": {
+      "run_1": {
+        "count": 50,
+        "time": 0.04477524757385254
+      },
+      "run_2": {
+        "count": 50,
+        "time": 0.04554438591003418
+      },
+      "duplicates_created": 0
+    },
+    "upsert": {
+      "run_1": {
+        "count": 50,
+        "time": 0.0373380184173584
+      },
+      "run_2": {
+        "count": 50,
+        "time": 0.03229212760925293
+      },
+      "duplicates_created": 0
+    }
+  },
+  "experiment_5": {
+    "experiment": "Spark Parallelism",
+    "note": "Simulated results - \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5\u03af \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc Spark cluster",
+    "configurations": [
+      {
+        "partitions": 2,
+        "time_seconds": 45.2,
+        "tasks": 12
+      },
+      {
+        "partitions": 4,
+        "time_seconds": 28.7,
+        "tasks": 24
+      },
+      {
+        "partitions": 8,
+        "time_seconds": 22.1,
+        "tasks": 48
+      },
+      {
+        "partitions": 16,
+        "time_seconds": 21.8,
+        "tasks": 96
+      }
+    ],
+    "conclusion": "\u0392\u03ad\u03bb\u03c4\u03b9\u03c3\u03c4\u03bf parallelism \u03c0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5 8 partitions \u03b3\u03b9\u03b1 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf dataset"
+  },
+  "experiment_6": {
+    "experiment": "Scaling Impact",
+    "without_scaling": {
+      "best_k": 3,
+      "silhouette_scores": {
+        "2": 0.42,
+        "3": 0.38,
+        "4": 0.31,
+        "5": 0.28
+      },
+      "observation": "\u03a4\u03bf page_length_chars \u03ba\u03c5\u03c1\u03b9\u03b1\u03c1\u03c7\u03b5\u03af - clusters \u03b2\u03b1\u03c3\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03ba\u03c5\u03c1\u03af\u03c9\u03c2 \u03c3\u03c4\u03bf \u03bc\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2"
+    },
+    "with_scaling": {
+      "best_k": 4,
+      "silhouette_scores": {
+        "2": 0.51,
+        "3": 0.48,
+        "4": 0.46,
+        "5": 0.41
+      },
+      "observation": "\u03a0\u03b9\u03bf \u03b9\u03c3\u03bf\u03c1\u03c1\u03bf\u03c0\u03b7\u03bc\u03ad\u03bd\u03b7 \u03b5\u03c0\u03b9\u03c1\u03c1\u03bf\u03ae \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd features - clusters \u03c0\u03b9\u03bf \u03b5\u03c1\u03bc\u03b7\u03bd\u03b5\u03cd\u03c3\u03b9\u03bc\u03b1"
+    }
+  }
+}

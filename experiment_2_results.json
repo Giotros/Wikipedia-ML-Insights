@@ -1,0 +1,13 @@
+{
+  "experiment": "Headless vs Non-Headless",
+  "headless": {
+    "avg_time_per_page": 1.329650600751241,
+    "timeout_rate": 0.0,
+    "failure_rate": 0.0
+  },
+  "non_headless": {
+    "avg_time_per_page": 1.5379695018132529,
+    "timeout_rate": 0.0,
+    "failure_rate": 0.0
+  }
+}

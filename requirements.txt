@@ -1,0 +1,16 @@
+# Selenium για web scraping
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# MongoDB
+pymongo==4.6.1
+
+# PySpark για clustering
+pyspark==3.5.0
+
+# Data manipulation
+pandas==2.1.4
+numpy==1.26.2
+
+# Utilities
+python-dateutil==2.8.2

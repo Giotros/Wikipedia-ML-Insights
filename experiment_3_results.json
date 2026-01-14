@@ -1,0 +1,19 @@
+{
+  "experiment": "\u03a1\u03c5\u03b8\u03bc\u03cc\u03c2 \u03a0\u03c1\u03cc\u03c3\u03b2\u03b1\u03c3\u03b7\u03c2",
+  "fast_policy": {
+    "delay_range": "0.1-0.3s",
+    "pages_per_minute": 73.71761474306363,
+    "failure_rate": 0.0,
+    "timeout_rate": 0.0,
+    "empty_fields_rate": 0.0,
+    "total_time": 32.55666923522949
+  },
+  "polite_policy": {
+    "delay_range": "1.0-2.0s",
+    "pages_per_minute": 29.73556785490676,
+    "failure_rate": 0.0,
+    "timeout_rate": 0.0,
+    "empty_fields_rate": 0.0,
+    "total_time": 80.71142315864563
+  }
+}

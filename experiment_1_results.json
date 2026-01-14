@@ -1,0 +1,17 @@
+{
+  "experiment": "\u03a3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03b9\u03ba\u03ad\u03c2 \u0391\u03bd\u03b1\u03bc\u03bf\u03bd\u03ae\u03c2",
+  "strategy_a": {
+    "name": "\u0392\u03b1\u03c3\u03b9\u03ba\u03ae (strict_waits=False)",
+    "failure_rate": 0.0,
+    "empty_fields_rate": 0.0,
+    "avg_time_per_page": 1.3805429792404176,
+    "timeout_rate": 0.0
+  },
+  "strategy_b": {
+    "name": "\u0391\u03c5\u03c3\u03c4\u03b7\u03c1\u03ae (strict_waits=True)",
+    "failure_rate": 0.0,
+    "empty_fields_rate": 0.0,
+    "avg_time_per_page": 1.3316896200180053,
+    "timeout_rate": 0.0
+  }
+}

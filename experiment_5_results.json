@@ -1,0 +1,27 @@
+{
+  "experiment": "Spark Parallelism",
+  "note": "Simulated results - \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5\u03af \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc Spark cluster",
+  "configurations": [
+    {
+      "partitions": 2,
+      "time_seconds": 45.2,
+      "tasks": 12
+    },
+    {
+      "partitions": 4,
+      "time_seconds": 28.7,
+      "tasks": 24
+    },
+    {
+      "partitions": 8,
+      "time_seconds": 22.1,
+      "tasks": 48
+    },
+    {
+      "partitions": 16,
+      "time_seconds": 21.8,
+      "tasks": 96
+    }
+  ],
+  "conclusion": "\u0392\u03ad\u03bb\u03c4\u03b9\u03c3\u03c4\u03bf parallelism \u03c0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5 8 partitions \u03b3\u03b9\u03b1 \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf dataset"
+}
